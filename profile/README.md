@@ -1,4 +1,4 @@
-# Baldur's Gate 3
+# Baldur's Gate 3 [Larian Studios]
 
 **Developer**: Larian Studios  
 **Publisher**: Larian Studios  
